@@ -1,13 +1,19 @@
 # MAL-FidgetUI-CSS
 
-https://github.com/user-attachments/assets/5d2abd19-bbf3-4d49-96aa-90336dd719ea
 
-New Custom CSS for MyAnimeList themed for a Persona 3 look.\
+
+https://github.com/user-attachments/assets/dbc916a4-9b84-4b45-abf1-72471014330a
+
+
+
+New custom CSS for MyAnimeList, themed for a Persona 3 look.\
+This look puts a clear emphasis on the 'Notes' section, where I mainly store my thoughts about shows.\
+The list is also very fidgety as you can see.\
 <img width="170" height="78" alt="image" src="https://github.com/user-attachments/assets/8b6a1910-d918-41a3-8b82-f68dba81ba32" /> 
 
 # Tutorial
 > [!IMPORTANT]
-> There are the settings that you need to follow, so the page doesn't break
+> You have to atleast follow the 'Columns' steps, so the page doesn't break.
 
 ## 1. Columns
 Open [MAL List Preferences](https://myanimelist.net/editprofile.php?go=listpreferences). Copy the following images and 'Submit'
