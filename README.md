@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/dbc916a4-9b84-4b45-abf1-72471014330a
 
 
 
-New custom CSS for MyAnimeList, themed for a Persona 3 look.\
+New custom CSS for MyAnimeList, themed for a Persona 3 look at default. However, you can easily customize it to your liking! \
 This look puts a clear emphasis on the 'Notes' section, where I mainly store my thoughts about shows.\
 The list is also very fidgety as you can see.\
 <img width="170" height="78" alt="image" src="https://github.com/user-attachments/assets/8b6a1910-d918-41a3-8b82-f68dba81ba32" /> 
@@ -14,7 +14,7 @@ The list is also very fidgety as you can see.\
 <h2 align="center">Tutorial</h2>
 
 > [!IMPORTANT]
-> You have to atleast follow the 'Columns' steps, so the page doesn't break.
+> You have to atleast follow the 'Columns' steps and switch to a 'Modern' template, so the page doesn't break.
 
 ## 1. Columns
 Open [MAL List Preferences](https://myanimelist.net/editprofile.php?go=listpreferences). Copy the following images and 'Submit'
@@ -33,4 +33,4 @@ Copy the whole content of this [page](https://raw.githubusercontent.com/pandoraf
 **You are done!**
 
 <h2 align="center">Customization (optional)</h2>
-The look of the list can be easily customized to your liking by rearranging the variables in the '.css' file. Just search for "CUSTOMIZATION" in it.
+Search for "CUSTOMIZATION" in the css file and rearrange the variables and background as it's stated in file.
