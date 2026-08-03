@@ -32,6 +32,5 @@ Click on the 'Dark Red' design to customize.
 Copy the whole content of this [page](https://raw.githubusercontent.com/pandorafromtheothers/MAL-FidgetUI-CSS/refs/heads/main/mal-fidgetUI.css) and paste it into the 'Custom CSS' section on MAL, and save it.\
 **You are done!**
 
-
-## Customization (optional)
+<h2 align="center">Customization (optional)</h2>
 The look of the list can be easily customized to your liking by rearranging the variables in the '.css' file. Just search for "CUSTOMIZATION" in it.
