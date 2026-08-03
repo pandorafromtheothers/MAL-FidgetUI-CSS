@@ -21,7 +21,7 @@
 }
 body {
   background-image: url(https://github.com/pandorafromtheothers/MAL-FidgetUI-CSS/blob/main/background/P3.gif?raw=true) !important;
-  background-size: 1900px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
