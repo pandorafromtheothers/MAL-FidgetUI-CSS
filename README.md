@@ -1,4 +1,4 @@
-# MAL-FidgetUI-CSS
+<h1 align="center">MyAnimeList FidgetUI</h1>
 
 
 
