@@ -11,7 +11,8 @@ This look puts a clear emphasis on the 'Notes' section, where I mainly store my 
 The list is also very fidgety as you can see.\
 <img width="170" height="78" alt="image" src="https://github.com/user-attachments/assets/8b6a1910-d918-41a3-8b82-f68dba81ba32" /> 
 
-# Tutorial
+<h2 align="center">Tutorial</h2>
+
 > [!IMPORTANT]
 > You have to atleast follow the 'Columns' steps, so the page doesn't break.
 
