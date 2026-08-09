@@ -97,13 +97,9 @@ body a{
 }
 
 .list-item{
-  display:flex;
-  flex-direction: column;
-  align-items: flex-start;
   border-radius:20px;
   border: 1px solid rgb(var(--black));
   margin: 10px;
-  width: 500px;
   background: linear-gradient(235deg,rgb(var(--primary), 0.8) 45%, rgba(0, 0, 0, 0.8) 45%);
   box-shadow: 10px 10px rgb(var(--shadow),0.4);
   transition: all .5s ease;
@@ -119,25 +115,24 @@ body a{
   justify-content: center;
 }
 .list-table-data{
-  display:flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  height: 250px;
-  width: auto;
+  display: grid;
+  grid-auto-flow: row;
+  align-items: center;
 }
 .image{
-  width: auto !important;
-  height: 200px !important;
-  border-radius: 20px;
-  margin: 5px 0px 0px 5px;
-  text-align: start !important;
-  transition: all .3s ease;  
+    width: auto !important;
+    height: 225px !important;
+    border-radius: 20px;
 }
-.image:hover {
-  height: 320px !important;
-  position: absolute;
-  margin-top: -20px;
-  margin-left: -20px;
+td.data.image{
+  margin: 5px 0px 0px 10px;
+  text-align: start !important;
+  transition: all .3s ease;
+  grid-row-start: 1;
+  grid-row-end: 6;
+}
+.data.image:hover {
+  scale: 1.5;
   z-index: 999;
 }
 .image, .data.progress{
@@ -166,25 +161,22 @@ body a{
   content: ' Ep';
 }
 .data.title{
-  order: 5;
-  margin-top: 15px;
+  margin-top: 5px;
   width: 340px;
   padding: 0px !important;
-  text-align: start !important;
 }
 .data.genre{
-  order: 6;
   width: 335px;
   text-align: left !important;
   font-variant: all-small-caps;
-}
-.data.season{
-  order: 7;
+  grid-column-start: 2;
+  grid-row-start: 2;
 }
 .data.mal_score{
-  order: 8;
   font-weight: 600;
   color: rgb(var(--white));
+  grid-column-start: 2;
+  grid-row-start: 4;
 }
 .data.mal_score:after{
   content: "MAL";
@@ -194,15 +186,16 @@ body a{
   content: "/10 Desu";
 }
 .data.score{
-  order: 9;
+    grid-column-start: 2;
+    grid-row-start: 5;
 }
 .data.progress{
   height: 29px;
   align-content: center;
+  grid-column-start: 1;
+  grid-row-start: 6;
 }
 .notes{
-  width: 300px !important;
-  text-align: start;
   font-size: 10px;
   line-height: 1em;
   padding: 5px;
@@ -211,8 +204,9 @@ body a{
   border-radius: 4px;
   font-weight: 600;
   transition: all .5s ease;
-  position: absolute;
-  transform: translate(-2px, 100px)
+  width:  285px !important;
+  margin-right: 5px;
+  margin-left: -2px;
 }
 .list-table-header{
   position: absolute;
@@ -250,12 +244,12 @@ body a{
 
 
 .add-edit-more{
-  margin-right: 20px !important;
   text-transform: full-width;
   font-variant: all-small-caps;
-  position: absolute;
-  margin-left: 220px;
-  margin-top: 15px
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  line-height: 10px;
 }
 .more-info{
   position: absolute;
