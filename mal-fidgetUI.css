@@ -131,13 +131,14 @@ body a{
   border-radius: 20px;
   margin: 5px 0px 0px 5px;
   text-align: start !important;
-  transition: all .3s ease;
+  transition: all .3s ease;  
 }
 .image:hover {
   height: 320px !important;
   position: absolute;
   margin-top: -20px;
   margin-left: -20px;
+  z-index: 999;
 }
 .image, .data.progress{
   margin-right: 10px;
@@ -210,6 +211,8 @@ body a{
   border-radius: 4px;
   font-weight: 600;
   transition: all .5s ease;
+  position: absolute;
+  transform: translate(-2px, 100px)
 }
 .list-table-header{
   position: absolute;
@@ -250,6 +253,9 @@ body a{
   margin-right: 20px !important;
   text-transform: full-width;
   font-variant: all-small-caps;
+  position: absolute;
+  margin-left: 220px;
+  margin-top: 15px
 }
 .more-info{
   position: absolute;
@@ -401,6 +407,9 @@ a.status-button {
   align-items: center;
   margin-left: 10px;
   margin-top: 5px;
+}
+footer {
+  display: none;
 }
 
 .list-unit.watching>.list-status-title{background: var(--watching) !important;}
