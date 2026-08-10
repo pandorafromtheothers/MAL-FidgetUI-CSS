@@ -2,7 +2,11 @@
 
 
 
-https://github.com/user-attachments/assets/dbc916a4-9b84-4b45-abf1-72471014330a
+
+
+https://github.com/user-attachments/assets/81417b3f-1c21-4903-b42b-6ec0dff1ec4f
+
+
 
 
 
@@ -19,10 +23,15 @@ The list is also very fidgety as you can see.\
 ## 1. Columns
 Open [MAL List Preferences](https://myanimelist.net/editprofile.php?go=listpreferences). Copy the following images and 'Submit'
 
-**Anime**\
-<img width="466" height="297" alt="image" src="https://github.com/user-attachments/assets/dc639168-da33-4e76-9177-f68c7a7414e7" />\
-**Manga**\
-<img width="467" height="299" alt="image" src="https://github.com/user-attachments/assets/b6e08d5a-6d7e-4c98-bf44-e8b3cb570056" />
+**Anime**<br>
+<sup>'Tags' is a little funky, but it's managable</sup>
+<br>
+<img width="510" height="328" alt="image" src="https://github.com/user-attachments/assets/a0efd992-e626-4d6c-9486-397e4187cdf2" />
+
+**Manga**
+<br>
+<img width="467" height="296" alt="image" src="https://github.com/user-attachments/assets/74c2fe02-612f-429f-8af9-1e44f9139733" />
+
 
 ## 2. Template
 Go to this [page](https://myanimelist.net/ownlist/style), and select the 'Modern' template.\
