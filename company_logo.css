@@ -96,7 +96,7 @@ a[href="/anime/producer/1258"] {
 	--company-bg: white;
 }
 /* Bones */
-a[href="/anime/producer/4"] {
+a[href="/anime/producer/4"], a[href="/anime/producer/3045"] {
 	--si: url(https://files.catbox.moe/2tvyed.svg);
 	--st: 0;
 	--company-bg: white;
