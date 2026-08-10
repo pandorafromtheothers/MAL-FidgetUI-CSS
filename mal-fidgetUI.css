@@ -26,7 +26,7 @@
 body {
   background-image: url(https://raw.githubusercontent.com/pandorafromtheothers/MAL-FidgetUI-CSS/refs/heads/main/background/P3_sprite.jpg) !important;
   background-repeat: no-repeat;
-  animation: bg-animate 4s steps(55) infinite;
+  animation: bg-animate 3.5s steps(55) infinite;
   background-size: max(100vw, 177.7778vh) auto;
   background-attachment: fixed;
 }
