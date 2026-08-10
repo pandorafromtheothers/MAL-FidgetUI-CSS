@@ -1,3 +1,4 @@
+@import url("https://rawcdn.githack.com/pandorafromtheothers/MAL-FidgetUI-CSS/e502d7d79221f1776ed0673165277f8dbe2432b9/company_logo.css");
 /* ***************** */
 /* Brought to you by */
 /* ***************** */
@@ -19,6 +20,7 @@
   --onhold: #f1c83e;
   --plantowatch: #c3c3c3;
   --st: visible;
+  --si: none;
   --company-bg: none;
 }
 body {
@@ -203,7 +205,7 @@ td.data.image{
 .data.studio>span {
   margin-right: 5px;
 }
-.data:is(.studio, .licensor){
+.data:is(.studio){
   font-size: 0px;
 }
 /* #region Logo replacement */
