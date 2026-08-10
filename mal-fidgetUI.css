@@ -24,9 +24,10 @@
   --company-bg: none;
 }
 body {
-  background-image: url(https://github.com/pandorafromtheothers/MAL-FidgetUI-CSS/blob/main/background/P3.gif?raw=true) !important;
-  background-size: cover;
+  background-image: url(https://raw.githubusercontent.com/pandorafromtheothers/MAL-FidgetUI-CSS/refs/heads/main/background/P3_sprite.jpg) !important;
   background-repeat: no-repeat;
+  animation: bg-animate 4s steps(55) infinite;
+  background-size: max(100vw, 177.7778vh) auto;
   background-attachment: fixed;
 }
 /* END OF CUSTOMIZATIONS */
@@ -49,6 +50,10 @@ body {
     border-bottom: 1px solid rgb(var(--black));
     border-left: 1px solid rgb(var(--black));
   }
+}
+@keyframes bg-animate {
+    from { background-position: 0 0; }
+    to { background-position: 0 calc(-30.9375 * max(100vw, 177.7778vh)); } 
 }
 
 .list-container,.list-block,.list-unit,.status-menu-container,.list-status-title, .list-status-title>span.text{
