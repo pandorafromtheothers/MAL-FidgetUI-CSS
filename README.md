@@ -18,10 +18,10 @@ The list is also very fidgety as you can see.\
 <h2 align="center">Tutorial</h2>
 
 > [!IMPORTANT]
-> You have to atleast follow the 'Columns' steps and switch to a 'Modern' template, so the page doesn't break.
+> You have to switch to a 'Modern' template.
 
 ## 1. Columns
-Open [MAL List Preferences](https://myanimelist.net/editprofile.php?go=listpreferences). Copy the following images and 'Submit'
+Open [MAL List Preferences](https://myanimelist.net/editprofile.php?go=listpreferences). Pick any of the following (checked!) columns you like and 'Submit'
 
 **Anime**<br>
 <sup>'Tags' is a little funky, but it's managable</sup>
