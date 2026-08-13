@@ -377,9 +377,9 @@ a[href="/anime/producer/951"] {
 }
 /* Nexus */
 a[href="/anime/producer/852"] {
-	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nexus_(estudio)_logo.svg/250px-Nexus_(estudio)_logo.svg.png);
+	--si: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nexus_(estudio)_logo.svg/1920px-Nexus_(estudio)_logo.svg.png");
 	--st: 0;
-	--company-bg: black;
+	--company-bg: white;
 }
 
 /* Nippon Animation */
