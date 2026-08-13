@@ -4,6 +4,12 @@ a[href="/anime/producer/56"] {
 	--st: 0;
 	--company-bg: white;
 }
+/* AIC */
+a[href="/anime/producer/48"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Anime_int_com_logo.svg/1920px-Anime_int_com_logo.svg.png);
+	--st: 0;
+	--company-bg: white;
+}
 
 /* Arms */
 a[href="/anime/producer/38"] {
