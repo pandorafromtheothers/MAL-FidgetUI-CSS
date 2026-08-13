@@ -373,7 +373,7 @@ a[href="/anime/producer/951"] {
 a[href="/anime/producer/852"] {
 	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nexus_(estudio)_logo.svg/250px-Nexus_(estudio)_logo.svg.png);
 	--st: 0;
-	--company-bg: white;
+	--company-bg: black;
 }
 
 /* Nippon Animation */
@@ -679,7 +679,7 @@ a[href="/anime/producer/27"] {
 
 /*  Yokohama Animation Lab  */
 a[href="/anime/producer/1687"] {
-	--si: url(https://files.catbox.moe/mgyu4f.pnghttps://upload.wikimedia.org/wikipedia/commons/c/c3/Yokohama_Animation_Laboratory.png);
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/c/c3/Yokohama_Animation_Laboratory.png);
 	--st: 0;
 	--company-bg: white;
 }
