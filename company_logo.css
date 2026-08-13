@@ -95,6 +95,13 @@ a[href="/anime/producer/1258"] {
 	--st: 0;
 	--company-bg: white;
 }
+/* Bibury Animation Studios */
+a[href="/anime/producer/1722"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/8/85/Bibury_Animation_Studios.png);
+	--st: 0;
+	--company-bg: white;
+}
+
 /* Bones */
 a[href="/anime/producer/4"], a[href="/anime/producer/3045"] {
 	--si: url(https://files.catbox.moe/2tvyed.svg);
@@ -122,6 +129,12 @@ a[href="/anime/producer/397"] {
 	--st: 0;
 	--company-bg: white;
 }
+/* BUG FILMS */
+a[href="/anime/producer/2674"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/5/5a/BUG_FILMS_Logo.png);
+	--st: 0;
+	--company-bg: white;
+}
 
 /* C2C */
 a[href="/anime/producer/605"] {
@@ -140,6 +153,13 @@ a[href="/anime/producer/1835"] {
 /* C-Station */
 a[href="/anime/producer/1075"] {
 	--si: url(https://files.catbox.moe/olx81g.jpg);
+	--st: 0;
+	--company-bg: white;
+}
+
+/* CoMix Wave Films */
+a[href="/anime/producer/291"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CoMix_Wave_Films_logo.svg/250px-CoMix_Wave_Films_logo.svg.png);
 	--st: 0;
 	--company-bg: white;
 }
@@ -177,6 +197,12 @@ a[href="/anime/producer/191"] {
 	--st: 0;
 	--company-bg: white;
 }
+/* Enishiya */
+a[href="/anime/producer/1991"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Enishiya_Logo.svg/250px-Enishiya_Logo.svg.png);
+	--st: 0;
+	--company-bg: white;
+}
 
 /* feel. */
 a[href="/anime/producer/91"] {
@@ -192,6 +218,12 @@ a[href="/anime/producer/866"] {
 	--company-bg: white;
 }
 
+/* HORNETS */
+a[href="/anime/producer/2097"] {
+	--si: url(https://toriaez-hp.jp/assets/1-B100000100/logo-20250228090026tCUnM415rA.png);
+	--st: 0;
+	--company-bg: black;
+}
 /* Gainax */
 a[href="/anime/producer/6"] {
 	--si: url(https://files.catbox.moe/wfam2j.svg);
@@ -230,6 +262,12 @@ a[href="/anime/producer/3"] {
 /* Graphinica */
 a[href="/anime/producer/894"] {
 	--si: url(https://files.catbox.moe/ooz3y3.png);
+	--st: 0;
+	--company-bg: white;
+}
+/*  Kinema Citrus  */
+a[href="/anime/producer/290"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/c/c0/Kinema_Citrus_logo.png);
 	--st: 0;
 	--company-bg: white;
 }
@@ -328,6 +366,12 @@ a[href="/anime/producer/1237"] {
 /* NAZ */
 a[href="/anime/producer/951"] {
 	--si: url(https://files.catbox.moe/ghwnet.png);
+	--st: 0;
+	--company-bg: white;
+}
+/* Nexus */
+a[href="/anime/producer/852"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nexus_(estudio)_logo.svg/250px-Nexus_(estudio)_logo.svg.png);
 	--st: 0;
 	--company-bg: white;
 }
@@ -452,7 +496,7 @@ a[href="/anime/producer/41"] {
 a[href="/anime/producer/13"] {
 	--si: url(https://files.catbox.moe/r322gz.png);
 	--st: 0;
-	--company-bg: white;
+	--company-bg: black;
 }
 
 /* Studio Comet */
@@ -538,9 +582,28 @@ a[href="/anime/producer/2201"] {
 	--st: 0;
 	--company-bg: white;
 }
+/*  studio MOTHER  */
+a[href="/anime/producer/2246"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Studio_MOTHER.svg/250px-Studio_MOTHER.svg.png);
+	--st: 0;
+	--company-bg: white;
+}
+/* Studio VOLN */
+a[href="/anime/producer/1244"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Studio_VOLN.png/250px-Studio_VOLN.png);
+	--st: 0;
+	--company-bg: white;
+}
+/* Square Enix */
+a[href="/anime/producer/1847"], a[href="/anime/producer/58"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Square_Enix_logo.svg/250px-Square_Enix_logo.svg.png);
+	--st: 0;
+	--company-bg: white;
+}
+
 
 /* TMS Entertainment */
-a[href="/anime/producer/73"] {
+a[href="/anime/producer/73"], a[href="/anime/producer/65"] {
 	--si: url(https://files.catbox.moe/6tar5m.svg);
 	--st: 0;
 	--company-bg: white;
@@ -549,6 +612,12 @@ a[href="/anime/producer/73"] {
 /* Toei Animation */
 a[href="/anime/producer/18"] {
 	--si: url(https://files.catbox.moe/o1cj3f.svg);
+	--st: 0;
+	--company-bg: white;
+}
+/* TOHO Animation Studio */
+a[href="/anime/producer/2705"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Toho_animation_Studio_Logo.png/250px-Toho_animation_Studio_Logo.png);
 	--st: 0;
 	--company-bg: white;
 }
@@ -608,6 +677,12 @@ a[href="/anime/producer/27"] {
 	--company-bg: white;
 }
 
+/*  Yokohama Animation Lab  */
+a[href="/anime/producer/1687"] {
+	--si: url(https://files.catbox.moe/mgyu4f.pnghttps://upload.wikimedia.org/wikipedia/commons/c/c3/Yokohama_Animation_Laboratory.png);
+	--st: 0;
+	--company-bg: white;
+}
 /* Yumeta Company */
 a[href="/anime/producer/96"] {
 	--si: url(https://files.catbox.moe/mgyu4f.png);
@@ -618,6 +693,12 @@ a[href="/anime/producer/96"] {
 /* Zexcs */
 a[href="/anime/producer/218"] {
 	--si: url(https://files.catbox.moe/6s6dek.png);
+	--st: 0;
+	--company-bg: white;
+}
+/* Zero-G */
+a[href="/anime/producer/218"] {
+	--si: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ZERO-G_logo.svg/250px-ZERO-G_logo.svg.png);
 	--st: 0;
 	--company-bg: white;
 }
