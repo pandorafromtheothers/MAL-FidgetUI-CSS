@@ -376,7 +376,7 @@ td.data.airing-finished {
   border-radius: 10px;
 }
 
-.header-title.image, .header-title.started, .header-title.progress, .header-title.genre, .icon-watch2, .header-title.status, .data.status{
+.header-title.number, .header-title.image, .header-title.started:not(:has(.link)), .header-title.genre, .icon-watch2, .header-title.status, .data.status, .header-title.studio{
   display: none !important;
 }
 
