@@ -245,7 +245,8 @@ td.data.image{
 }
 .data.rated {
   grid-column: 1;
-  grid-row: 7;
+  grid-row: 6;
+  align-self: end;
 }
 .data.genre{
   width: 335px;
@@ -272,22 +273,45 @@ td.data.image{
     grid-row: 5;
 }
 .data.chapter {
-  grid-column: 1;
+  grid-column: 2;
   grid-row: 7;
 }
 .data.progress, .data.volume{
   align-content: center;
-  grid-column: 1;
+  grid-column: 2;
   grid-row: 6;
-  margin-top: 15px;
+  margin-top: 4px;
+}
+.data.volume{
+  margin-bottom: 3px;
+}
+.data.progress, .data.volume, .data.chapter{
+  font-size: 14px;
+  justify-self: center;
+  width: fit-content;
+  border-radius: 6px;
+  padding: 4px !important;
+  background-color: #0a1d43;
+  transition: all .2s ease;
+}
+.data.progress:hover, .data.volume:hover, .data.chapter:hover{
+  padding: 4px 10px 4px 4px !important;
+}
+.icon-add-episode>i::before, .icon-add-volume>i::before, .icon-add-chapter>i::before {
+  font-size: 0px;
+  transition: all .2s ease;
+}
+.data.progress:hover>div>.icon-add-episode>i::before, .data.volume:hover>div>.icon-add-volume>i::before, .data.chapter:hover>div>.icon-add-chapter>i::before {
+  font-size: 14px;
 }
 td.data.progress>div, .data.volume>div {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .data.number {
   grid-column: 2;
-  grid-row: 9;
+  grid-row: 8;
   justify-self: end;
   margin-right: 20px;
 }
