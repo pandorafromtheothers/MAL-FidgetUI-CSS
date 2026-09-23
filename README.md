@@ -2,6 +2,7 @@
 
 <p align="center"><img alt="image" src="https://cdn.myanimelist.net/s/common/bbcode/2cc38e6f-74db-416e-9162-eda8e6d12170?s=2a2c2d40da50158c3d44920ad83d12e7"/></p>
 <div align="center">Podium finisher of the <a href="https://myanimelist.net/forum/?topicid=2280113">🩵MAL Bunkasai 2026's List Design Contest 🩵</a></div>
+<div align="center"><i>If you want to get the version seen in the contest, switch the branch to the "fto-version"</i></div>
 
 
 https://github.com/user-attachments/assets/81417b3f-1c21-4903-b42b-6ec0dff1ec4f
@@ -12,7 +13,7 @@ https://github.com/user-attachments/assets/81417b3f-1c21-4903-b42b-6ec0dff1ec4f
 <h1 align="center">Introduction</h1>
 New custom CSS for MyAnimeList, themed for a Persona 3 look at default. However, you can easily customize it to your liking!<br>
 This look puts a clear emphasis on the 'Notes' section, where I mainly store my thoughts about shows.<br>
-The list is also very fidgety as you can see.
+The list is also very fidgety as you can see.<br>
 
 <br>
 <h2 align="center">Tutorial</h2>
