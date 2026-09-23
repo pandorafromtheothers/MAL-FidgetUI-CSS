@@ -1,7 +1,7 @@
 <h1 align="center">MyAnimeList FidgetUI</h1>
 
 <p align="center"><img alt="image" src="https://cdn.myanimelist.net/s/common/bbcode/2cc38e6f-74db-416e-9162-eda8e6d12170?s=2a2c2d40da50158c3d44920ad83d12e7"/></p>
-<div align="center">Podium finisher of the 🩵MAL Bunkasai 2026's List Design Contest 🩵</div>
+<div align="center">Podium finisher of the <a href="https://myanimelist.net/forum/?topicid=2280113">🩵MAL Bunkasai 2026's List Design Contest 🩵</a></div>
 
 
 https://github.com/user-attachments/assets/81417b3f-1c21-4903-b42b-6ec0dff1ec4f
